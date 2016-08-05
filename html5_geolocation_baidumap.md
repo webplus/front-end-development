@@ -1,7 +1,8 @@
 ## Html5定位+百度地图示例  
 - HTML5 Geolocation API 实现地理位置的定位  
 - 通过定位拿到经纬度，再使用百度地图或谷歌地图API 实现地图展示和城市信息获取  
-
+- 代码中的KEY需要自行申请  
+ 
 ```html
 <!DOCTYPE html>
 <html>
@@ -22,7 +23,7 @@
         height: 100%
     }
     </style>
-    <script type="text/javascript" src="http://m.pingan.com/xinyongka/files/js/jquery.js"></script>
+    <script type="text/javascript" src="./jquery.js"></script>
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=KEY"></script>
     <!-- <script type="text/javascript" src="map.js"></script> -->
 </head>
