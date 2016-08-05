@@ -1,4 +1,7 @@
-## Html5定位+百度地图示例
+## Html5定位+百度地图示例  
+- HTML5 Geolocation API 实现地理位置的定位  
+- 通过定位拿到经纬度，再使用百度地图或谷歌地图API 实现地图展示和城市信息获取  
+
 ```html
 <!DOCTYPE html>
 <html>
