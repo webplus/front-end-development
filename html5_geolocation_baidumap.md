@@ -1,3 +1,5 @@
+## Html5定位+百度地图示例
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,5 +137,5 @@
     })
     </script>
 </body>
-
 </html>
+```
